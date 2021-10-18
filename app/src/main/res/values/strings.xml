@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Acro</string>
+    <string name="plz_enter_the_text">Please Enter the Text</string>
+    <string name="no_data">No Data Found</string>
+</resources>
